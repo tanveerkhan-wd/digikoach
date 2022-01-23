@@ -1,0 +1,17 @@
+Sr. No.,question_en,"media_file_que_en
+(image id with comma separated)",question_hi,"media_file_que_hi
+(image id with comma separated)",solution_en,"media_file_sol_en
+(image id with comma separated)",solution_hi,"media_file_sol_hi
+(image id with comma separated)","marks 
+(numbers only)",option_en(1),"media_file_opt_1_en
+(image id with comma separated)",option_hi(1),"media_file_opt_1_hi
+(image id with comma separated)",option_order(1),option_en(2),"media_file_opt_2_en
+(image id with comma separated)",option_hi(2),"media_file_opt_2_hi
+(image id with comma separated)",option_order(2),option_en(3),"media_file_opt_3_en
+(image id with comma separated)",option_hi(3),"media_file_opt_3_hi
+(image id with comma separated)",option_order(3),option_en(4),"media_file_opt_4_en
+(image id with comma separated)",option_hi(4),"media_file_opt_4_hi
+(image id with comma separated)",option_order(4),option_en(5),"media_file_opt_5_en
+(image id with comma separated)",option_hi(5),"media_file_opt_5_hi
+(image id with comma separated)",option_order(5),"right_option
+(1,2,3,4,5)"

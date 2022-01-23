@@ -1,0 +1,8 @@
+When AppUser Deleted Then these field also affect
+	1. Doubts,doubt answer, doubt replies, 
+	2. notification_id
+	3. saved_blogs
+	4. user_attempts
+	5. user_exam_responses
+	6. user_saved_items
+	7. user_verifications
